@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Ismael
+#### Tech and Game Lover
+![Tech and Game Lover](https://png.pngtree.com/background/20210715/original/pngtree-high-tech-digital-technology-global-social-media-concept-picture-image_1264150.jpg)
 
-<!--
-**ismaelchaquir/ismaelchaquir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a simple guy who loves to write and speak about web technology.
+I share what i learn 
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
