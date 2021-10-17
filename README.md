@@ -5,9 +5,9 @@
 ##### I'm a simple guy who loves to write and speak about web technology.
 I share what i learn 
 
-Skills: NODEJS / REACTJS / TYPESCRIPT / HTML / CSS
+Skills: **NODEJS / REACTJS / TYPESCRIPT / HTML / CSS
         LARAVEL / PYSPARK / FASTAPI / PANDAS / NUMPY /
-        GRAPHQL / JAVA / SELENIUM / CYPRESS / SPRING FRAMEWORK 
+        GRAPHQL / JAVA / SELENIUM / CYPRESS / SPRING FRAMEWORK** 
         ... and many more
 
 - 🔭 I’m currently working on this page. 
